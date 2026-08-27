@@ -28,7 +28,7 @@ Not covered — the optional modules: **SOC & Threat Intelligence Foundations**,
 
 ## Files
 
-- **[CCDL1-Quick-Reference.md](CCDL1-Quick-Reference.md)** — everything in one file
+- **[CCDL1-Cheat-Sheet.md](CCDL1-Cheat-Sheet.md)** — everything in one file
 - **[modules/](modules/)** — the same material split per module
 
 Start from the phase of the intrusion you are investigating rather than from the tool. Caveats are marked ⚠ and sit next to the item they apply to, so searching for a tool or a field surfaces the trap along with the syntax.
