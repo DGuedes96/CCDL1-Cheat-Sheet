@@ -1,7 +1,7 @@
 ---
 title: "Module 3 — SIEM Basics / Splunk (Quick Reference)"
 course: CCDL1
-type: quick-reference
+type: Cheat Sheet
 tags: [blueteam, soc, siem, splunk, spl, threat-hunting]
 ---
 
