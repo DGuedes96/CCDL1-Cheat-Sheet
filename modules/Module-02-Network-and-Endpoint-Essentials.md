@@ -1,7 +1,7 @@
 ---
 title: "Module 2 — Network & Endpoint Essentials (Quick Reference)"
 course: CCDL1
-type: quick-reference
+type: Cheat Sheet
 tags: [blueteam, soc, network-forensics, wireshark, endpoint, sysmon]
 ---
 
