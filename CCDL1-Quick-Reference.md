@@ -1,11 +1,11 @@
 ---
-title: "CCDL1 Quick Reference"
+title: "CCDL1 Cheat Sheet"
 course: CCDL1
-type: quick-reference
+type: Cheat Sheet
 tags: [blueteam, soc, dfir, ccdl1, cheat-sheet]
 ---
 
-# CCDL1 — Quick Reference
+# CCDL1 — Cheat Sheet
 
 Commands, field names, event IDs, query templates, and the caveats that change an answer. Organised by the module structure of the CyberDefenders Certified CyberDefender Level 1 course, and by attack phase within each module.
 
