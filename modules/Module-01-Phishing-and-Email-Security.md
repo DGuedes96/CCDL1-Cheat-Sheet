@@ -1,7 +1,7 @@
 ---
 title: "Module 1 — Phishing & Email Security"
 course: CCDL1
-type: cheat-sheet
+type: Cheat Sheet
 tags: [blueteam, soc, phishing, email-security, maldoc]
 ---
 
