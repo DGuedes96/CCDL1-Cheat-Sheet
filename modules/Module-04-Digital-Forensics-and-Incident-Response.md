@@ -1,5 +1,5 @@
 ---
-title: "Module 4 — DFIR (Quick Reference)"
+title: "Module 4 — DFIR"
 course: CCDL1
 type: Cheat Sheet
 tags: [blueteam, dfir, forensics, volatility, registry, eztools, autopsy]
