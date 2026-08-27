@@ -1,4 +1,4 @@
-# CCDL1 Quick Reference
+# CCDL1 Cheat Sheet
 
 A lookup-optimised blue team reference covering the five core modules of the CyberDefenders **Certified CyberDefender Level 1** course.
 
