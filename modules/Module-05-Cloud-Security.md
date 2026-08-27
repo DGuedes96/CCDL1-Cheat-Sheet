@@ -1,5 +1,5 @@
 ---
-title: "Module 5 — Cloud Security (Quick Reference)"
+title: "Module 5 — Cloud Security"
 course: CCDL1
 type: Cheat Sheet
 tags: [blueteam, cloud, aws, cloudtrail, cloudwatch, incident-response]
